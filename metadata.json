@@ -1,0 +1,6 @@
+{
+  "name": "SAGE - Secure Air-Gapped Generative Engine",
+  "description": "Private, Evidence-Grounded Agentic AI for Confidential Organizational Work",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
